@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9138f8d2128d43f4bb614099eb029820
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - chuncks: {fileID: 2918779684258596452, guid: ea87535d3625d01459c85dba744c3024, type: 3}
+  - expl: {fileID: 1223276885567947651, guid: c14334c988c03a546a082eb5ed2d9345, type: 3}
+  - fireworksShower: {fileID: 5203469717499369991, guid: e2bc50e6639dca742a8da4ce247dc50c, type: 3}
+  - score: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
