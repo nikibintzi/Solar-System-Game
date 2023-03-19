@@ -5,3 +5,4 @@ This group project is a game made for the Computer Graphics and Interaction Syst
 
 Our goal was to make a solar system, where the user could shoot meteors at the moving planets and watch them explode. 
 The user can move using the arrows on his keyboard and can shoot using the space button. On the bottom left corner of his screen, he can see his score: the number of planets he has hit.
+You can read more on our development process in the report named "readme_UNITY4510_4435.pdf", in greek.
